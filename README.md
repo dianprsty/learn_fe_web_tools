@@ -8,3 +8,10 @@ In here, i will learn few frontend technologies like :
 - Bootstrap
 - Axios
 - Firebase
+
+## sass
+
+Requirements :
+
+- Nodejs
+- Npm
